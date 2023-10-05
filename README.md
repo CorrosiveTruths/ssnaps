@@ -29,6 +29,7 @@ Tool to simplify snapshot management and remote backup using libbtrfsutil.
 * zfs support.
 * bcachefs support.
 * cron support.
+* sudo alt support (doas?)
 
 # Setup
 * Subvolume mounted at .snapshots directory.
