@@ -22,6 +22,7 @@ Tool to simplify snapshot management and remote backup using libbtrfsutil.
 * snapper conversion.
 * man page
 * help
+* undochange that reflinks
 
 # Eventually?
 * GUI for rollback, comparisons etc.
