@@ -33,6 +33,6 @@ Tool to simplify snapshot management and remote backup using libbtrfsutil.
 * sudo alt support (doas?)
 
 # Setup
-* Subvolume mounted at .snapshots directory.
+* Flat layout needed for rollbacl.
 * Remote snapshots require user account on backup system with sudo btrfs access for particular jobs / locations and key-based login.
 * Uses pv if available.
